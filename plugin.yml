@@ -1,0 +1,13 @@
+﻿name: BanInfo
+main: TSt\Loader
+api: 3.0.1
+version: 1.0
+author: TSt
+description: "Информация о бане"
+permissions:
+  baninfo.commands.baninfo:
+    description: '/bi'
+    default: op
+  baninfo.commands.banip:
+    description: '/bi-ip'
+    default: op
