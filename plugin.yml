@@ -3,12 +3,12 @@ main: BanInfo\Loader
 api: 3.0.1
 version: 1.2.4 [RUS]
 authors: [TableStudio Team (TSt), "WeekThor"]
-description: "Информация о бане"
+description: "Information about ban"
 permissions:
   baninfo.commands.baninfo:
     description: '/bi'
     default: op
-  baninfo.commands.banip:
+  baninfo.commands.baninfo.ip:
     description: '/bi-ip'
     default: op
   baninfo.commands.bancid:
